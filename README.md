@@ -41,7 +41,7 @@
 
 5. Key Results & Dashboard Preview
 
-   ![European Soccer Dashboard](./figure1.png)
+   ![European Soccer Dashboard](./figure_all.png)
 
 The analysis evaluates performance across 8 seasons, visualized in the unified dashboard below:
 
